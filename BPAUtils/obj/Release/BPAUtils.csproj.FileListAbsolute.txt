@@ -1,0 +1,8 @@
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtils\obj\Release\BPAUtils.csprojResolveAssemblyReference.cache
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtils\obj\Release\CNO.BPA.IAUtil.Resource.resources
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtils\obj\Release\CNO.BPA.IAUtil.SetupPanel.resources
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtils\obj\Release\BPAUtils.csproj.GenerateResource.Cache
+D:\binnt\CNO.BPA.BPAUtils.dll
+D:\binnt\CNO.BPA.BPAUtils.pdb
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtils\obj\Release\CNO.BPA.BPAUtils.dll
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtils\obj\Release\CNO.BPA.BPAUtils.pdb

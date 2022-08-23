@@ -1,0 +1,8 @@
+D:\binnt\BPAUTIL4.dll
+D:\binnt\BPAUTIL4.pdb
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil4\obj\Release\BPAUTIL4.dll
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil4\obj\Release\BPAUTIL4.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil4\obj\Release\BPAUtil4.csproj.AssemblyReference.cache
+D:\7.1 Files\BPA.net\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil4\obj\Release\BPAUtil4.csproj.CoreCompileInputs.cache
+D:\7.1 Files\BPA.net\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil4\obj\Release\BPAUTIL4.dll
+D:\7.1 Files\BPA.net\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil4\obj\Release\BPAUTIL4.pdb

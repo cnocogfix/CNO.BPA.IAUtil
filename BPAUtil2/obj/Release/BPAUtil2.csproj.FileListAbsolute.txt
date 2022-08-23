@@ -1,0 +1,5 @@
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil2\obj\Release\BPAUtil2.csprojResolveAssemblyReference.cache
+D:\binnt\BPAUTIL2.dll
+D:\binnt\BPAUTIL2.pdb
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil2\obj\Release\BPAUTIL2.dll
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil2\obj\Release\BPAUTIL2.pdb

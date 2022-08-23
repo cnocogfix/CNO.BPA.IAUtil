@@ -1,0 +1,28 @@
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil1\obj\Debug\BPAUtil1.csprojResolveAssemblyReference.cache
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil1\obj\Debug\BPAUTIL1.dll
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil1\obj\Debug\BPAUTIL1.pdb
+D:\7.1 Files\BPA.net\InputAccel\Client\binnt\BPAUTIL1.dll
+D:\7.1 Files\BPA.net\InputAccel\Client\binnt\BPAUTIL1.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUtil1.csproj.AssemblyReference.cache
+D:\7.1 Files\BPA.net\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUtil1.csproj.CoreCompileInputs.cache
+D:\7.1 Files\BPA.net\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUtil1.csproj.CopyComplete
+D:\7.1 Files\BPA.net\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUTIL1.dll
+D:\7.1 Files\BPA.net\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUTIL1.pdb
+D:\InputAccel\Client\binnt\BPAUTIL1.dll
+D:\InputAccel\Client\binnt\BPAUTIL1.dll.config
+D:\ProdCodebase\WORKING BACKUP\InputAccel\Client\binnt\BPAUTIL1.dll.config
+D:\ProdCodebase\WORKING BACKUP\InputAccel\Client\binnt\BPAUTIL1.dll
+D:\ProdCodebase\WORKING BACKUP\InputAccel\Client\binnt\BPAUTIL1.pdb
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUtil1.csproj.AssemblyReference.cache
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUtil1.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUtil1.csproj.CopyComplete
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUTIL1.dll
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUTIL1.pdb
+D:\ProdCodebase\InputAccel\Client\binnt\BPAUTIL1.dll.config
+D:\ProdCodebase\InputAccel\Client\binnt\BPAUTIL1.dll
+D:\ProdCodebase\InputAccel\Client\binnt\BPAUTIL1.pdb
+D:\ProdCodebase\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUtil1.csproj.AssemblyReference.cache
+D:\ProdCodebase\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUtil1.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUtil1.csproj.CopyComplete
+D:\ProdCodebase\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUTIL1.dll
+D:\ProdCodebase\CNO.BPA.IAUtil\trunk\CNO.BPA.IAUtil\BPAUtil1\obj\Debug\BPAUTIL1.pdb

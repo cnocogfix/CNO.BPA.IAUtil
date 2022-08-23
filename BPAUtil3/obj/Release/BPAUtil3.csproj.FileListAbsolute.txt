@@ -1,0 +1,4 @@
+D:\binnt\BPAUTIL3.dll
+D:\binnt\BPAUTIL3.pdb
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil3\obj\Release\BPAUTIL3.dll
+D:\Source\CNO.BPA.IAUtil\trunk\BPAUtil3\obj\Release\BPAUTIL3.pdb
